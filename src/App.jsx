@@ -614,6 +614,11 @@ export default function App() {
       }}
     >
       <h1 style={{ marginBottom: 8 }}>Personhood Classifier</h1>
+
+      <p style={{ marginTop: 0, marginBottom: 8, color: "#bdbdbd" }}>
+        Created by Jai Mangal
+      </p>
+
       <p style={{ marginBottom: 32, color: "#d0d0d0" }}>
         This tool asks one shared set of questions, then compares how different
         theories of personhood classify the same being.
